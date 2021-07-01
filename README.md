@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=aR4rmhHwyEk
 
 Oven presentation in VR
 
+-----
+
 HTC Vive Pro, Leap Motion, HTC VIVE Controllers
 
 Oven's interaction (opening / closing, pulling the oven plate, turning oven on / off)
