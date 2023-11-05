@@ -1,4 +1,4 @@
-# Amica-oven-presentation-VR-2019
+# Amica-oven-presentation-VR
 Video
 
 https://www.youtube.com/watch?v=aR4rmhHwyEk
